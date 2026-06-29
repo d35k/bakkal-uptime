@@ -4,17 +4,17 @@
     "url": "https://bakkal.ae/",
     "icon": "https://icons.duckduckgo.com/ip3/bakkal.ae.ico",
     "slug": "bakkal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 565,
-    "timeDay": 137,
-    "timeWeek": 822,
-    "timeMonth": 565,
-    "timeYear": 565,
+    "time": 552,
+    "timeDay": 136,
+    "timeWeek": 736,
+    "timeMonth": 543,
+    "timeYear": 552,
     "dailyMinutesDown": {}
   }
 ]
