@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bakkal.ae.ico",
     "slug": "bakkal",
     "status": "up",
-    "uptime": "99.80%",
+    "uptime": "99.81%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.75%",
-    "uptimeYear": "99.80%",
-    "time": 504,
-    "timeDay": 232,
-    "timeWeek": 211,
-    "timeMonth": 481,
-    "timeYear": 504,
+    "uptimeYear": "99.81%",
+    "time": 508,
+    "timeDay": 664,
+    "timeWeek": 260,
+    "timeMonth": 472,
+    "timeYear": 508,
     "dailyMinutesDown": {
       "2026-06-29": 111
     }
